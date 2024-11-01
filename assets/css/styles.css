@@ -1,15 +1,57 @@
-main { background-color: darkblue; font-family: Arial, Helvetica, sans-serif;}
-body {background-color: #F5DEB3; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; }
-header {background-color: #013220; font-family: 'Times New Roman', Times, serif;}
-
-
-.cabeca{
-    height: 100px;
-    background-color: #013220;
-    margin: 0 auto;
-    width: 100%;
-    padding: 20px;
-    min-height: 100px;
-    max-height: 300px;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-
+.body {
+    background-color: #1A1A1A;
+    color: #FFFFFF;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.cabecario{
+    display: flex;
+    background-color: #A8D5BA;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 12px;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+.cabecario img{
+    max-height: 30px;
+    max-width: 30px;
+    margin: 30px;
+    display: block;
+}
+.cabecario .NomeDoSite {
+    color: #000;
+}
+.cabecario .Explorar{
+    display: flex;
+    justify-content: left;
+}
+.cabecario button {
+    background: none;
+    border: none;
+    padding: 0;
+}
+.cabecario .superintendent {
+    font-size: 20px;
+}
+.botaoexplorar {
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.Explorar {}
+footer {
+    bottom: 0;
+    align-items: center;
+    justify-content: center;
+    background-color: #221e1f;
+}
