@@ -1,6 +1,6 @@
 # Fernweh 🏗️
 
-[https://ibb.co/pZ4PgPz](https://i.ibb.co/bLN3x3B/logo-png.png)
+![Logo do Fernweh][(https://w7.pngwing.com/pngs/63/59/png-transparent-coat-of-arms-of-germany-pellet-fuel-boiler-united-states-eagle-flag-animals-logo.png)
 
 ## Descrição
 
