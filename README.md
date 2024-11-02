@@ -1,7 +1,5 @@
 # Fernweh 🏗️
 
-![Logo do Fernweh][(https://w7.pngwing.com/pngs/63/59/png-transparent-coat-of-arms-of-germany-pellet-fuel-boiler-united-states-eagle-flag-animals-logo.png)
-
 ## Descrição
 
 Fernweh é uma aplicação em construção 🏗️, desenvolvida para ser utilizada como uma ferramenta de flash cards e estudos. O objetivo da aplicação é facilitar o aprendizado e a memorização de conteúdos de forma interativa e eficiente. Com Fernweh, você pode criar, gerenciar e revisar seus flash cards, tornando o processo de estudo mais dinâmico e agradável.
