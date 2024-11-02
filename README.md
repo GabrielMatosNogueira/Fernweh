@@ -1,10 +1,10 @@
-# Fernweh
+# Fernweh 🏗️
 
-![Logo do Fernweh](https://ibb.co/pZ4PgPz)
+!https://ibb.co/pZ4PgPz
 
 ## Descrição
 
-Fernweh é uma aplicação desenvolvida para ser utilizada como uma ferramenta de flash cards e estudos. O objetivo da aplicação é facilitar o aprendizado e a memorização de conteúdos de forma interativa e eficiente. Com Fernweh, você pode criar, gerenciar e revisar seus flash cards, tornando o processo de estudo mais dinâmico e agradável.
+Fernweh é uma aplicação em construção 🏗️, desenvolvida para ser utilizada como uma ferramenta de flash cards e estudos. O objetivo da aplicação é facilitar o aprendizado e a memorização de conteúdos de forma interativa e eficiente. Com Fernweh, você pode criar, gerenciar e revisar seus flash cards, tornando o processo de estudo mais dinâmico e agradável.
 
 ## Funcionalidades
 
@@ -18,9 +18,3 @@ Fernweh é uma aplicação desenvolvida para ser utilizada como uma ferramenta d
 - HTML
 - CSS
 - JavaScript
-
-## Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone <URL-do-repositório>
