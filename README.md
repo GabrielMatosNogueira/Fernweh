@@ -1,6 +1,6 @@
 # Fernweh 🏗️
 
-!https://ibb.co/pZ4PgPz
+https://ibb.co/pZ4PgPz
 
 ## Descrição
 
